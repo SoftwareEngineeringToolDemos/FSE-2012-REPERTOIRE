@@ -17,3 +17,5 @@ This repository was constructed by [Siddhartha Kollipara](https://github.com/sko
 ## Attribution
 
 Author of tool: Baishakhi Ray
+
+Personal website: [http://rayb.info/] (http://rayb.info/)
