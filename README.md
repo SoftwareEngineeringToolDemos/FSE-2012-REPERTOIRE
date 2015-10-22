@@ -14,10 +14,4 @@ In this repository, for REPERTOIRE you will find:
 
 This repository was constructed by [Siddhartha Kollipara](https://github.com/skollip) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
-## Attribution
-
-Author of tool: Baishakhi Ray
-
-Personal website: [http://rayb.info/] (http://rayb.info/)
-
 Thanks to [Baishakhi Ray](http://rayb.info/) for her help in establishing this repository.
