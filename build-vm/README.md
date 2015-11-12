@@ -32,7 +32,6 @@ This folder contains the files needed to build a virtual machine for REPERTOIRE 
 
 * username: *vagrant*
 * password: *vagrant*
-* 
 
 #### Acknowledgement
 
