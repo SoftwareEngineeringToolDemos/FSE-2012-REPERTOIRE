@@ -14,9 +14,10 @@ Desktop files
 The following files will be located on the Desktop
 1. Readme.txt(this file)
 2. FSE-2012-REPERTOIRE folder
-3. License folder
+3. Licenses folder
 4. video_REPERTOIRE
 5. installation.txt
+6. lock.sh
 
 Demo Video
 ----------
