@@ -1,0 +1,12 @@
+Instructions to install and run REPERTOIRE
+
+1. Open the terminal and type the following commands
+2. sudo apt-get update
+3. sudo apt-get install -y pyqt4-dev-tools 
+4. sudo apt-get install -y qt4-designer
+5. cd Desktop
+6. sudo apt-get -y install git
+7. sudo git clone https://github.com/SoftwareEngineeringToolDemos/FSE-2012-REPERTOIRE.git
+8. cd FSE-2012-REPERTOIRE/src
+9. sudo make
+10. ./driverG.py 

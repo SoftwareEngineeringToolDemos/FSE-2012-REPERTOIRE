@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/vagrant/Desktop/FSE-2012-REPERTOIRE/src/driverG.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=REPERTOIRE
+Name=REPERTOIRE
+Comment[en_US]=launch gui
+Comment=launch gui

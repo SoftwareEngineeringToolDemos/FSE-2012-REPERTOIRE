@@ -1,0 +1,10 @@
+License
+
+CCFinderX license has been revised on 2006/Oct/15.
+CCFinderX Freeware License
+
+    You may distribute this software for free on any medium without modification or inclusion in other software.
+    You may not rent, lease, lend, redistribute or sublicense the license key and the unzip password.
+    You may use this product for free, in case of the purpose is one of the followings: evaluation of this product, education, research, in-house use (commercial or non-commercial).
+    You may not use for any purposes of the followings: consluting, network survice to unspecified number of or anonymous pepole. (These purposes are covered by the commercial license.)
+    THIS PROCUT IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL WE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
