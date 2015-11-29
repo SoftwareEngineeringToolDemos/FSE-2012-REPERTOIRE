@@ -24,12 +24,12 @@ sudo cp REPERTOIRE.desktop ../../../REPERTOIRE.desktop
 sudo cp Readme.txt ../../../Readme.txt
 sudo cp installation.txt ../../../installation.txt
 sudo cp video_REPERTOIRE.desktop ../../../video_REPERTOIRE.desktop
-sudo mkdir "/home/Desktop/Results"
+sudo mkdir "/home/vagrant/Desktop/Results"
 
 # Configuring autostart options
 sudo mkdir "/home/vagrant/.config/autostart"
 sudo cp REPERTOIRE.desktop /home/vagrant/.config/autostart/REPERTOIRE.desktop
-cd Desktop
+cd /home/vagrant/Desktop/
 sudo rm REPERTOIRE.desktop
 
 # Remove unnecessary launcher applications
