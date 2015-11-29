@@ -21,16 +21,16 @@ sudo cp -rf Licenses ../../../Licenses
 sudo cp -rf Examples ../../../Examples
 sudo cp -rf Results ../../../Results
 sudo cp REPERTOIRE.desktop ../../../REPERTOIRE.desktop
-sudo cp lock.sh ../../../lock.sh
-sudo cp Disable.lock ../../../Disable.lock
 sudo cp Readme.txt ../../../Readme.txt
 sudo cp installation.txt ../../../installation.txt
 sudo cp video_REPERTOIRE.desktop ../../../video_REPERTOIRE.desktop
+sudo mkdir "/home/Desktop/Results"
 
 # Configuring autostart options
 sudo mkdir "/home/vagrant/.config/autostart"
-sudo mv REPERTOIRE.desktop /home/vagrant/.config/autostart/REPERTOIRE.desktop
-sudo cp Disable.lock /home/vagrant/.config/autostart/Disable.lock
+sudo cp REPERTOIRE.desktop /home/vagrant/.config/autostart/REPERTOIRE.desktop
+cd Desktop
+sudo rm REPERTOIRE.desktop
 
 # Remove unnecessary launcher applications
 sudo rm -f "/usr/share/applications/ubuntu-amazon-default.desktop"

@@ -17,7 +17,6 @@ The following files will be located on the Desktop
 3. Licenses folder
 4. video_REPERTOIRE.desktop
 5. installation.txt
-6. lock.sh
 
 Demo Video
 ----------
