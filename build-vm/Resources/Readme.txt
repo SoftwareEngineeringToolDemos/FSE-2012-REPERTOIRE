@@ -20,8 +20,7 @@ The following files will be located on the Desktop
 
 Demo Video
 ----------
-Click video_REPERTOIRE on the Desktop
-Select Run
+Double click video_REPERTOIRE on the Desktop
 YouTube link: https://youtu.be/HDq46fjVgEw
 
 Username/Password
