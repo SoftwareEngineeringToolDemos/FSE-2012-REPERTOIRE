@@ -9,4 +9,4 @@ Instructions to install and run REPERTOIRE
 7. sudo git clone https://github.com/SoftwareEngineeringToolDemos/FSE-2012-REPERTOIRE.git
 8. cd FSE-2012-REPERTOIRE/src
 9. sudo make
-10. ./driverG.py 
+10. ./driverG.py (Runs tool)

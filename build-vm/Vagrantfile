@@ -1,15 +1,16 @@
-
+# Vagrant script commands
 Vagrant.configure(2) do |config|
-
-config.vm.box = "ubuntu/trusty32"
-
-config.vm.provider "virtualbox" do |vb|
-
-vb.gui = true
-
-vb.memory = "1024"
-end
-
-config.vm.provision :shell, path: "bootstrap.sh"
-
+	# Creates VM from box provided by https://atlas.hashicorp.com/
+	config.vm.box = "box-cutter/ubuntu1404-desktop"
+	# Configures VM settings
+	config.vm.provider "virtualbox" do |vb|
+		# Shows GUI as VM is being built
+		vb.gui = true
+		# Memory allocated for VM
+		vb.memory = "1024"
+		# Name of the VM
+		vb.name = "Beaufort-skollip-REPERTOIRE_Tool"
+		
+	end
+	config.vm.provision :shell, path: "bootstrap.sh"
 end

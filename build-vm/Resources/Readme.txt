@@ -15,14 +15,15 @@ The following files will be located on the Desktop
 1. Readme.txt(this file)
 2. FSE-2012-REPERTOIRE folder
 3. Licenses folder
-4. video_REPERTOIRE
+4. video_REPERTOIRE.desktop
 5. installation.txt
 6. lock.sh
 
 Demo Video
 ----------
-Double click video_REPERTOIRE on the Desktop
-YouTube link:
+Click video_REPERTOIRE on the Desktop
+Select Run
+YouTube link: https://youtu.be/HDq46fjVgEw
 
 Username/Password
 -----------------
