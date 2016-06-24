@@ -11,7 +11,8 @@ This repository <i>is not</i> the original repository for this tool. Here are so
 
 In this repository, for REPERTOIRE you will find: 
 
-* :white_check_mark: [Source code] (https://github.com/baishakhir/RepertoireTool)
+* :white_check_mark: [Source code] (.)
+* :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Siddhartha Kollipara](https://github.com/skollip) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
